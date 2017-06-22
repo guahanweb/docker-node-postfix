@@ -1,0 +1,1 @@
+docker build -t guahanweb/docker-node-postfix:$(cat version) .

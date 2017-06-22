@@ -1,0 +1,19 @@
+{
+  "name": "@guahanweb/docker-node-postfix",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Garth Henson",
+    "email": "garth@guahanweb.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "commander": "^2.9.0",
+    "winston": "^2.3.1"
+  }
+}
